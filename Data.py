@@ -23,7 +23,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Order bot Hub </b><a href='https://t.me/panggil_m'>Luffy</a>
 """
 
     close = [
@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://xxnx'>XXNX</a>
+ • Source Code: <a href='https://google.com'>XXNX</a>
 
 👨‍💻 Develoved by </b><a href='https://t.me/Nakama_asl'>@LuffyStore</a>
 """
